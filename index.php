@@ -23,7 +23,7 @@
         
         <!--BOTÃO-->
           
-    <a href="<?php include_once("resultado.php");?>"><input type="submit" name = "enviar"> </a>
+    <a href="<?php include_once("avaliacao.php");?>"><input type="submit" name = "enviar"> </a>
 
     </form>
 </body>
