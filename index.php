@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- FORM -->
-    <form action="resultado.php" method="post" enctype = "multipart/form-data">
+    <form action="avaliacao.php" method="post" enctype = "multipart/form-data">
         <!-- NOME -->
         <label for="nome">Nome:</label>
         <input type="text" name="nome" placeholder="Digite seu nome">                                                                                                       <br><br>
